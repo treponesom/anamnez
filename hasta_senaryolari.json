@@ -1,0 +1,228 @@
+{
+    "senaryolar": [
+        {
+            "yaş": 6,
+            "cinsiyet": "Erkek",
+            "branş": "Pediatrik Üroloji",
+            "şikayet": "Gece altını ıslatma",
+            "detaylar": "Son 6 aydır devam eden gece altını ıslatma şikayeti. Gündüz idrar kaçırma yok. Sık idrara çıkma ve ani sıkışma hissi mevcut. Ailede benzer öykü var.",
+            "tanı": "Primer Enürezis Nokturna"
+        },
+        {
+            "yaş": 4,
+            "cinsiyet": "Erkek",
+            "branş": "Pediatrik Üroloji",
+            "şikayet": "İnmemiş testis",
+            "detaylar": "Doğumdan beri sağ testis skrotumda görülmüyor. Fizik muayenede sağ testis kasık kanalında palpe ediliyor. Sol testis normal pozisyonda.",
+            "tanı": "Kriptorşidizm"
+        },
+        {
+            "yaş": 8,
+            "cinsiyet": "Erkek",
+            "branş": "Pediatrik Üroloji",
+            "şikayet": "İdrar yaparken yanma",
+            "detaylar": "3 gündür devam eden idrar yaparken yanma, sık idrara çıkma ve karın ağrısı şikayeti. Ateş 38.5°C. İdrar rengi bulanık.",
+            "tanı": "Üriner Sistem Enfeksiyonu"
+        },
+        {
+            "yaş": 5,
+            "cinsiyet": "Erkek",
+            "branş": "Pediatrik Üroloji",
+            "şikayet": "İdrar akımında zayıflık",
+            "detaylar": "Doğumdan beri var olan idrar akımında zayıflık ve işeme güçlüğü. İdrar ince akıyor ve bazen damlıyor. Tekrarlayan idrar yolu enfeksiyonu öyküsü mevcut.",
+            "tanı": "Posterior Üretral Valv"
+        },
+        {
+            "yaş": 32,
+            "cinsiyet": "Erkek",
+            "branş": "Androloji",
+            "şikayet": "Kısırlık",
+            "detaylar": "2 yıldır çocuk sahibi olamama şikayeti. Eşi sağlıklı ve tetkikleri normal. Sperm analizi düşük değerler gösteriyor. Çocuklukta geçirilmiş kabakulak öyküsü mevcut.",
+            "tanı": "Erkek İnfertilitesi"
+        },
+        {
+            "yaş": 28,
+            "cinsiyet": "Erkek",
+            "branş": "Androloji",
+            "şikayet": "Erken boşalma",
+            "detaylar": "İlk cinsel ilişkiden beri devam eden erken boşalma şikayeti. Ortalama boşalma süresi 1 dakikadan az. Anksiyete ve stres belirtileri mevcut.",
+            "tanı": "Prematür Ejakülasyon"
+        },
+        {
+            "yaş": 45,
+            "cinsiyet": "Erkek",
+            "branş": "Androloji",
+            "şikayet": "Sertleşme sorunu",
+            "detaylar": "Son 6 aydır giderek artan sertleşme güçlüğü. Diyabet ve hipertansiyon mevcut. Sigara kullanıyor. Sabah sertleşmeleri azalmış.",
+            "tanı": "Erektil Disfonksiyon"
+        },
+        {
+            "yaş": 35,
+            "cinsiyet": "Erkek",
+            "branş": "Androloji",
+            "şikayet": "Testiste ağrı ve şişlik",
+            "detaylar": "3 gündür sol testiste ağrı ve şişlik. Travma öyküsü yok. Cinsel ilişki sonrası başlamış. Ateş ve üşüme titreme mevcut.",
+            "tanı": "Epididimoorşit"
+        },
+        {
+            "yaş": 65,
+            "cinsiyet": "Erkek",
+            "branş": "Üroonkoloji",
+            "şikayet": "İdrarda kan görme",
+            "detaylar": "2 aydır aralıklı olarak idrarda kan görme. Ağrı yok. 40 yıllık sigara öyküsü mevcut. Son 6 ayda 5 kilo kaybı olmuş.",
+            "tanı": "Mesane Kanseri"
+        },
+        {
+            "yaş": 72,
+            "cinsiyet": "Erkek",
+            "branş": "Üroonkoloji",
+            "şikayet": "PSA yüksekliği",
+            "detaylar": "Rutin kontrolde PSA değeri 12 ng/mL saptanmış. İdrar yapmada güçlük, gece idrara kalkma ve kesik kesik idrar yapma şikayetleri mevcut.",
+            "tanı": "Prostat Kanseri"
+        },
+        {
+            "yaş": 55,
+            "cinsiyet": "Erkek",
+            "branş": "Üroonkoloji",
+            "şikayet": "Yan ağrısı",
+            "detaylar": "2 aydır devam eden sağ yan ağrısı. İdrarda kan görme olmuş. Tomografide sağ böbrekte 7 cm kitle saptanmış. Kilo kaybı ve gece terlemesi mevcut.",
+            "tanı": "Böbrek Kanseri"
+        },
+        {
+            "yaş": 45,
+            "cinsiyet": "Erkek",
+            "branş": "Üroonkoloji",
+            "şikayet": "Testiste sertlik",
+            "detaylar": "3 aydır sağ testiste ağrısız sertlik. Düzenli testis muayenesi yaparken farketmiş. Aile öyküsünde testis kanseri mevcut.",
+            "tanı": "Testis Kanseri"
+        },
+        {
+            "yaş": 48,
+            "cinsiyet": "Erkek",
+            "branş": "Transplantasyon",
+            "şikayet": "Böbrek yetmezliği",
+            "detaylar": "10 yıldır diyabete bağlı kronik böbrek yetmezliği. 3 yıldır haftada 3 gün hemodiyalize giriyor. Canlı vericisi mevcut (kardeşi).",
+            "tanı": "Son Dönem Böbrek Yetmezliği - Transplantasyon Adayı"
+        },
+        {
+            "yaş": 52,
+            "cinsiyet": "Kadın",
+            "branş": "Transplantasyon",
+            "şikayet": "Nakil böbrekte fonksiyon bozukluğu",
+            "detaylar": "5 yıl önce böbrek nakli yapılmış. Son 2 aydır kreatinin değerlerinde yükselme. İdrar miktarında azalma ve ödem şikayeti mevcut.",
+            "tanı": "Kronik Rejeksiyon"
+        },
+        {
+            "yaş": 35,
+            "cinsiyet": "Erkek",
+            "branş": "Transplantasyon",
+            "şikayet": "Nakil sonrası ateş",
+            "detaylar": "1 ay önce böbrek nakli yapılmış. 3 gündür 38.5°C ateş, idrar yaparken yanma ve sık idrara çıkma şikayeti mevcut.",
+            "tanı": "Post-transplant Üriner Sistem Enfeksiyonu"
+        },
+        {
+            "yaş": 42,
+            "cinsiyet": "Kadın",
+            "branş": "Transplantasyon",
+            "şikayet": "Nakil böbrekte ağrı",
+            "detaylar": "2 yıl önce böbrek nakli yapılmış. 2 gündür nakil böbrek lojunda ağrı ve hassasiyet. Ateş ve idrar çıkışında azalma mevcut.",
+            "tanı": "Akut Rejeksiyon"
+        },
+        {
+            "yaş": 55,
+            "cinsiyet": "Erkek",
+            "branş": "Endoüroloji",
+            "şikayet": "Böbrek taşı",
+            "detaylar": "Şiddetli sol yan ağrısı. BT'de sol böbrekte 2 cm taş saptanmış. İdrarda kan görme ve bulantı mevcut. Daha önce de taş düşürme öyküsü var.",
+            "tanı": "Ürolitiyazis"
+        },
+        {
+            "yaş": 62,
+            "cinsiyet": "Erkek",
+            "branş": "Endoüroloji",
+            "şikayet": "İdrar yapamama",
+            "detaylar": "Prostat büyümesine bağlı idrar yapamama. Sonda takılı. PSA normal. Prostat volümü 120 cc ölçülmüş.",
+            "tanı": "Benign Prostat Hiperplazisi"
+        },
+        {
+            "yaş": 45,
+            "cinsiyet": "Kadın",
+            "branş": "Endoüroloji",
+            "şikayet": "Üreter darlığı",
+            "detaylar": "Sağ yan ağrısı ve tekrarlayan idrar yolu enfeksiyonu. Görüntülemede sağ üreterde darlık ve hidronefroz saptanmış.",
+            "tanı": "Üreter Darlığı"
+        },
+        {
+            "yaş": 38,
+            "cinsiyet": "Erkek",
+            "branş": "Endoüroloji",
+            "şikayet": "Mesane tümörü",
+            "detaylar": "İdrarda kan görme şikayetiyle yapılan sistoskopide 1 cm mesane tümörü saptanmış. Sigara kullanımı mevcut.",
+            "tanı": "Mesane Tümörü - TUR-M Adayı"
+        },
+        {
+            "yaş": 48,
+            "cinsiyet": "Kadın",
+            "branş": "Kadın Ürolojisi",
+            "şikayet": "İdrar kaçırma",
+            "detaylar": "3 doğum öyküsü mevcut. Öksürme, hapşırma ve gülme sırasında idrar kaçırma şikayeti. Günlük ped kullanımı mevcut.",
+            "tanı": "Stres Üriner İnkontinans"
+        },
+        {
+            "yaş": 55,
+            "cinsiyet": "Kadın",
+            "branş": "Kadın Ürolojisi",
+            "şikayet": "Mesane sarkması",
+            "detaylar": "Vajinal doğum öyküsü mevcut. Vajende ele gelen kitle hissi. İdrar yapmada güçlük ve sık idrar yolu enfeksiyonu şikayeti.",
+            "tanı": "Sistosel"
+        },
+        {
+            "yaş": 42,
+            "cinsiyet": "Kadın",
+            "branş": "Kadın Ürolojisi",
+            "şikayet": "Ani idrar hissi",
+            "detaylar": "Ani idrar yapma hissi ve tuvalete yetişememe şikayeti. Günde 15-20 kez tuvalete gitme ihtiyacı. Noktüri mevcut.",
+            "tanı": "Aşırı Aktif Mesane"
+        },
+        {
+            "yaş": 52,
+            "cinsiyet": "Kadın",
+            "branş": "Kadın Ürolojisi",
+            "şikayet": "İnterstisyel sistit",
+            "detaylar": "Kronik pelvik ağrı ve sık idrara çıkma şikayeti. Ağrı mesane dolumunda artıyor ve işeme ile rahatlıyor. Psikolojik stres faktörleri mevcut.",
+            "tanı": "İnterstisyel Sistit"
+        },
+        {
+            "yaş": 35,
+            "cinsiyet": "Erkek",
+            "branş": "Nöroüroloji",
+            "şikayet": "Mesane boşaltma güçlüğü",
+            "detaylar": "2 yıl önce geçirilen trafik kazası sonrası omurilik yaralanması. İdrar yapamama ve sonda kullanımı. Tekrarlayan idrar yolu enfeksiyonları.",
+            "tanı": "Nörojenik Mesane"
+        },
+        {
+            "yaş": 42,
+            "cinsiyet": "Kadın",
+            "branş": "Nöroüroloji",
+            "şikayet": "İdrar kaçırma",
+            "detaylar": "Multiple Skleroz tanısı mevcut. İdrar kaçırma ve sık idrara çıkma şikayeti. Mesane boşaltmada güçlük ve rezidü idrar hissi.",
+            "tanı": "MS'e Bağlı Nörojenik Mesane"
+        },
+        {
+            "yaş": 65,
+            "cinsiyet": "Erkek",
+            "branş": "Nöroüroloji",
+            "şikayet": "İdrar kontrolünde zorluk",
+            "detaylar": "Parkinson hastalığı mevcut. Gece idrara kalkma ve idrar kaçırma şikayeti. Mesaneyi tam boşaltamama hissi.",
+            "tanı": "Parkinson'a Bağlı Mesane Disfonksiyonu"
+        },
+        {
+            "yaş": 58,
+            "cinsiyet": "Erkek",
+            "branş": "Nöroüroloji",
+            "şikayet": "İdrar retansiyonu",
+            "detaylar": "Diyabetik nöropati mevcut. İdrar yapamama ve glob vezikale. Mesane hissinde azalma ve taşma inkontinansı.",
+            "tanı": "Diyabetik Sistopati"
+        }
+    ]
+} 
